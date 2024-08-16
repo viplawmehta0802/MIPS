@@ -1,2 +1,2 @@
 # MIPS
-this is
+This is single cycle mips processor.
